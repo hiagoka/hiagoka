@@ -1,9 +1,3 @@
-## Olá!!! Meu nome é Hiago Kalil 👋
-
-- 🔭 I’m currently working on ...
-- 🌱 Estudando Typescript
-- 📫 Contate-me no email: kalilhiago@gmail.com
-- 😄 Pronouns: ele/dele
 
 <h2 align="left">Hi 👋! My name is Hiago Kalil and I'm a Front-end Developer, from João Pessoa Brasil</h2>
 
