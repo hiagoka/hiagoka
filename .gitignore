@@ -1,0 +1,11 @@
+# local-only inputs/intermediates for the portrait pipeline
+source-photo.*
+source-prepped.png
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# misc
+.DS_Store
