@@ -18,11 +18,11 @@
 <rect x="84.5" y="196" width="211.0" height="34" rx="17" fill="#c62828"/>
 <text x="190" y="219" text-anchor="middle" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="bold" letter-spacing="1.5" fill="#f1e3bf">CAN'T EVEN SWIM YET</text>
 <text x="34" y="260" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#a97a24">Contributions (1 year)</text>
-<text x="346" y="260" text-anchor="end" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="bold" fill="#0a0a0a">7</text>
+<text x="346" y="260" text-anchor="end" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="bold" fill="#0a0a0a">9</text>
 <text x="34" y="290" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#a97a24">Current streak</text>
-<text x="346" y="290" text-anchor="end" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="bold" fill="#0a0a0a">0 days</text>
+<text x="346" y="290" text-anchor="end" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="bold" fill="#0a0a0a">2 days</text>
 <text x="34" y="320" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#a97a24">Longest streak</text>
-<text x="346" y="320" text-anchor="end" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="bold" fill="#0a0a0a">1 day</text>
+<text x="346" y="320" text-anchor="end" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="bold" fill="#0a0a0a">2 days</text>
 <text x="34" y="350" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#a97a24">Main language</text>
 <text x="346" y="350" text-anchor="end" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="bold" fill="#0a0a0a">TypeScript</text>
 <line x1="34" y1="382" x2="346" y2="382" stroke="#a97a24" stroke-width="1"/>
