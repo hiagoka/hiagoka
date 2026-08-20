@@ -22,7 +22,7 @@ INK = "#0a0a0a"
 
 NAME = "HIAGO KALIL"
 TITLE = "Front-end Developer"
-TAGLINE = "navegando entre TypeScript, React e um mar de commits"
+TAGLINE = "sailing between TypeScript, React, and a sea of commits"
 
 FONT = "'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace"
 

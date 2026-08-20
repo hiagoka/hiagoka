@@ -26,11 +26,11 @@ FONT = "'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace"
 TOP_LANGUAGE = "TypeScript"
 
 RANKS = [
-    (0, "AINDA NÃO SABE NADAR"),
-    (10, "GRUMETE DA TRIPULAÇÃO"),
-    (50, "SUPERNOVA DO EAST BLUE"),
-    (150, "QUASE UM YONKOU"),
-    (500, "O REI DOS PIRATAS!"),
+    (0, "CAN'T EVEN SWIM YET"),
+    (10, "SHIP'S CABIN HAND"),
+    (50, "SUPERNOVA OF THE EAST BLUE"),
+    (150, "ALMOST A YONKOU"),
+    (500, "THE PIRATE KING!"),
 ]
 
 
@@ -110,7 +110,7 @@ def build_svg(data):
     cx = WIDTH // 2
     parts.append(
         f'<text x="{cx}" y="52" text-anchor="middle" font-family="{FONT}" '
-        f'font-size="30" font-weight="bold" letter-spacing="6" fill="{RED}">SE PROCURA</text>'
+        f'font-size="30" font-weight="bold" letter-spacing="6" fill="{RED}">WANTED</text>'
     )
     parts.append(
         f'<line x1="34" y1="66" x2="{WIDTH-34}" y2="66" stroke="{INK}" stroke-width="1.5"/>'
@@ -120,7 +120,7 @@ def build_svg(data):
 
     parts.append(
         f'<text x="{cx}" y="178" text-anchor="middle" font-family="{FONT}" '
-        f'font-size="10.5" letter-spacing="1" fill="{INK}">CONTRIBUIÇÕES CONFIRMADAS</text>'
+        f'font-size="10.5" letter-spacing="1" fill="{INK}">CONTRIBUTIONS CONFIRMED</text>'
     )
 
     # size the pill to fit the rank text (names vary a lot in length)
@@ -135,10 +135,10 @@ def build_svg(data):
     )
 
     rows = [
-        ("Contribuições (1 ano)", str(total)),
-        ("Streak atual", f"{streak} dia" + ("s" if streak != 1 else "")),
-        ("Recorde de streak", f"{longest} dia" + ("s" if longest != 1 else "")),
-        ("Linguagem principal", TOP_LANGUAGE),
+        ("Contributions (1 year)", str(total)),
+        ("Current streak", f"{streak} day" + ("s" if streak != 1 else "")),
+        ("Longest streak", f"{longest} day" + ("s" if longest != 1 else "")),
+        ("Main language", TOP_LANGUAGE),
     ]
     y = 260
     for label, value in rows:
@@ -155,11 +155,11 @@ def build_svg(data):
 
     parts.append(
         f'<text x="{cx}" y="{HEIGHT-34}" text-anchor="middle" font-family="{FONT}" '
-        f'font-size="10.5" fill="{INK}" opacity="0.75">Emitido por: GitHub HQ · atualizado diariamente</text>'
+        f'font-size="10.5" fill="{INK}" opacity="0.75">Issued by: GitHub HQ · updated daily</text>'
     )
     parts.append(
         f'<text x="{cx}" y="{HEIGHT-18}" text-anchor="middle" font-family="{FONT}" '
-        f'font-size="9.5" fill="{INK}" opacity="0.55">gerado em {esc(data.get("generated_at","")[:10])}</text>'
+        f'font-size="9.5" fill="{INK}" opacity="0.55">generated on {esc(data.get("generated_at","")[:10])}</text>'
     )
 
     parts.append('</svg>')

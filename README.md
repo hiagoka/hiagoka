@@ -23,20 +23,20 @@
 </td>
 <td valign="top">
 
-### 🗺️ Projetos em destaque
+### 🗺️ Featured projects
 
 **[OnePieceReact](https://github.com/hiagoka/OnePieceReact)**
-Projeto em React + TypeScript inspirado no universo de One Piece — cadastra personagens e monta as tripulações do anime. Feito porque One Piece é a obra que mais me inspira.
+A React + TypeScript project inspired by the One Piece universe — add characters and build out the anime's crews. Made because One Piece is the work that inspires me the most.
 
 **[ai-chat-mobile](https://github.com/hiagoka/ai-chat-mobile)**
-App de chat mobile com IA, construído com React Native e a API da OpenAI.
+AI-powered mobile chat app, built with React Native and the OpenAI API.
 
-**Sistema web — Polícia Militar da Paraíba**
-Sistema/aplicação web desenvolvido para a PMPB.
+**Web system — Paraíba Military Police**
+A web system/application developed for the Military Police of Paraíba (PMPB).
 
 <br>
 
-### 📡 Contato
+### 📡 Contact
 
 <a href="https://www.instagram.com/hiagokalil/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
