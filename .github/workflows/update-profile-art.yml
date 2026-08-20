@@ -20,8 +20,8 @@ jobs:
           python-version: "3.11"
       - run: pip install -r scripts/requirements.txt
       - run: python scripts/fetch_contributions.py
-      - run: python scripts/render_heatmap_svg.py
+      - run: python scripts/render_bounty_poster.py
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg"
+          commit_message: "chore: refresh bounty poster stats [skip ci]"
+          file_pattern: "data/contributions.json assets/bounty-poster.svg"

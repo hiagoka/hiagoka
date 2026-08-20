@@ -1,6 +1,6 @@
 {
   "username": "hiagoka",
-  "generated_at": "2026-08-19T23:39:52.158066Z",
+  "generated_at": "2026-08-20T00:03:21.711025Z",
   "days": [
     {
       "date": "2025-08-17",
@@ -1841,11 +1841,16 @@
       "date": "2026-08-19",
       "level": 4,
       "count": 2
+    },
+    {
+      "date": "2026-08-20",
+      "level": 0,
+      "count": 0
     }
   ],
   "stats": {
     "total": 7,
-    "current_streak": 1,
+    "current_streak": 0,
     "longest_streak": 1,
     "best_day": {
       "date": "2026-03-17",

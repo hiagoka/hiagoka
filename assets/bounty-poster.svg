@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 460" width="380" height="460">
+
+    <defs>
+      <radialGradient id="vignette" cx="50%" cy="45%" r="75%">
+        <stop offset="0.6" stop-color="#f1e3bf" stop-opacity="0"/>
+        <stop offset="1" stop-color="#5c4522" stop-opacity="0.35"/>
+      </radialGradient>
+    </defs>
+    
+<rect width="380" height="460" rx="8" fill="#f1e3bf"/>
+<rect width="380" height="460" rx="8" fill="url(#vignette)"/>
+<rect x="10" y="10" width="360" height="440" fill="none" stroke="#c9aa63" stroke-width="2"/>
+<rect x="14" y="14" width="352" height="432" fill="none" stroke="#a97a24" stroke-width="1"/>
+<text x="190" y="52" text-anchor="middle" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="30" font-weight="bold" letter-spacing="6" fill="#c62828">SE PROCURA</text>
+<line x1="34" y1="66" x2="346" y2="66" stroke="#0a0a0a" stroke-width="1.5"/>
+<g transform="translate(190,118) scale(1.05)"><g transform="rotate(35)"><rect x="-30" y="-3.5" width="60" height="7" rx="3.5" fill="#0a0a0a"/><circle cx="-30" cy="0" r="5" fill="#0a0a0a"/><circle cx="30" cy="0" r="5" fill="#0a0a0a"/></g><g transform="rotate(-35)"><rect x="-30" y="-3.5" width="60" height="7" rx="3.5" fill="#0a0a0a"/><circle cx="-30" cy="0" r="5" fill="#0a0a0a"/><circle cx="30" cy="0" r="5" fill="#0a0a0a"/></g><circle cx="0" cy="-2" r="20" fill="#f1e3bf" stroke="#0a0a0a" stroke-width="2.5"/><path d="M -11,11 Q 0,23 11,11 L 9,5 Q 0,11 -9,5 Z" fill="#f1e3bf" stroke="#0a0a0a" stroke-width="2.5" stroke-linejoin="round"/><circle cx="-7" cy="-3" r="5" fill="#0a0a0a"/><circle cx="7" cy="-3" r="5" fill="#0a0a0a"/><path d="M 0,2 L -3,7 L 3,7 Z" fill="#0a0a0a"/><ellipse cx="0" cy="-16" rx="30" ry="6.5" fill="#e2b658" stroke="#0a0a0a" stroke-width="1.5"/><path d="M -15,-17 Q -15,-32 0,-33 Q 15,-32 15,-17 Q 15,-12 0,-12 Q -15,-12 -15,-17 Z" fill="#e2b658" stroke="#0a0a0a" stroke-width="1.5" stroke-linejoin="round"/><rect x="-15" y="-18" width="30" height="4.5" fill="#c62828" stroke="#0a0a0a" stroke-width="1"/></g>
+<text x="190" y="178" text-anchor="middle" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="1" fill="#0a0a0a">CONTRIBUIÇÕES CONFIRMADAS</text>
+<rect x="80.0" y="196" width="220.0" height="34" rx="17" fill="#c62828"/>
+<text x="190" y="219" text-anchor="middle" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="bold" letter-spacing="1.5" fill="#f1e3bf">AINDA NÃO SABE NADAR</text>
+<text x="34" y="260" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#a97a24">Contribuições (1 ano)</text>
+<text x="346" y="260" text-anchor="end" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="bold" fill="#0a0a0a">7</text>
+<text x="34" y="290" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#a97a24">Streak atual</text>
+<text x="346" y="290" text-anchor="end" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="bold" fill="#0a0a0a">0 dias</text>
+<text x="34" y="320" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#a97a24">Recorde de streak</text>
+<text x="346" y="320" text-anchor="end" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="bold" fill="#0a0a0a">1 dia</text>
+<text x="34" y="350" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#a97a24">Linguagem principal</text>
+<text x="346" y="350" text-anchor="end" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="bold" fill="#0a0a0a">TypeScript</text>
+<line x1="34" y1="382" x2="346" y2="382" stroke="#a97a24" stroke-width="1"/>
+<text x="190" y="426" text-anchor="middle" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#0a0a0a" opacity="0.75">Emitido por: GitHub HQ · atualizado diariamente</text>
+<text x="190" y="442" text-anchor="middle" font-family="'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#0a0a0a" opacity="0.55">gerado em 2026-08-20</text>
+</svg>
