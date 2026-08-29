@@ -1,6 +1,6 @@
 {
   "username": "hiagoka",
-  "generated_at": "2026-08-28T18:46:20.767610Z",
+  "generated_at": "2026-08-29T12:43:13.250194Z",
   "days": [
     {
       "date": "2025-08-24",
@@ -1849,14 +1849,19 @@
     },
     {
       "date": "2026-08-28",
-      "level": 0,
-      "count": 0
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-08-29",
+      "level": 1,
+      "count": 1
     }
   ],
   "stats": {
-    "total": 19,
-    "current_streak": 0,
-    "longest_streak": 9,
+    "total": 21,
+    "current_streak": 11,
+    "longest_streak": 11,
     "best_day": {
       "date": "2026-08-19",
       "level": 4,
@@ -1875,7 +1880,7 @@
       "2026-05": 0,
       "2026-06": 1,
       "2026-07": 0,
-      "2026-08": 16
+      "2026-08": 18
     }
   }
 }
