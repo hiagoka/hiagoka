@@ -1,42 +1,7 @@
 {
   "username": "hiagoka",
-  "generated_at": "2026-08-29T12:43:13.250194Z",
+  "generated_at": "2026-08-30T11:58:17.470753Z",
   "days": [
-    {
-      "date": "2025-08-24",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-25",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-26",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-27",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-28",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-29",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-30",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-08-31",
       "level": 0,
@@ -1854,13 +1819,18 @@
     },
     {
       "date": "2026-08-29",
-      "level": 1,
-      "count": 1
+      "level": 2,
+      "count": 2
+    },
+    {
+      "date": "2026-08-30",
+      "level": 0,
+      "count": 0
     }
   ],
   "stats": {
-    "total": 21,
-    "current_streak": 11,
+    "total": 22,
+    "current_streak": 0,
     "longest_streak": 11,
     "best_day": {
       "date": "2026-08-19",
@@ -1880,7 +1850,7 @@
       "2026-05": 0,
       "2026-06": 1,
       "2026-07": 0,
-      "2026-08": 18
+      "2026-08": 19
     }
   }
 }
