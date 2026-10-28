@@ -18,6 +18,7 @@ Finishing my Bachelor of Computer Science at <a href="https://www.unipe.edu.br/"
 
 ```javascript
 const hiago = {
+  pronouns: "he" | "him",
   location: "João Pessoa, PB - Brazil",
   code: [TypeScript, JavaScript, Swift],
   tools: [React Native, Expo, React, Next.js, Node.js, Firebase],
@@ -35,7 +36,7 @@ const hiago = {
 
 <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/5.gif" width="60"> <em><b>I love connecting with different people,</b> so if you want to say <b>hi</b>, I'd be happy to meet you!</em>
 
-[Portfolio](https://hiagokalil-dev.vercel.app/), [Instagram](https://www.instagram.com/hiagokalil/), [GitHub](https://github.com/hiagoka)
+[Portfolio](https://hiagokalil-dev.vercel.app/), [Instagram](https://www.instagram.com/hiagokalil/), [LinkedIn](https://www.linkedin.com/in/hiagoka/), [GitHub](https://github.com/hiagoka)
 <details>
 
 <summary>ASCII Art</summary>
@@ -52,8 +53,3 @@ const hiago = {
 |  |  ' | :'  : |__  ," .--.; |'   .   . ||   :    ||  | ' \ \," .--.; |
 |  :  :_:,'|  | '.'|/  /  ,.  | `---`-'| | \   \  / '  : |--'/  /  ,.  |
 |  | ,'    ;  :    ;  :   .'   \.'__/\_: |  `----'  ;  |,'  ;  :   .'   \
-`--''      |  ,   /|  ,     .-./|   :    :          '--'    |  ,     .-./
-            ---`-'  `--`---'     \   \  /                    `--`---'
-                                  `--`-'
-```
-</details>
