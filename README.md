@@ -1,49 +1,59 @@
-<div align="center">
+<h2> Hi there, I'm Hiago <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/7.gif" width="50"></h2>
+<p><em>
+Mobile Developer at HackBrain
+<img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/9.gif" width="30">
+</br>
+Building <b>Prepara+</b>, an AI-powered ENEM prep app
+<img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/11.gif" width="30">
+</br>
+Finishing my Bachelor of Computer Science at <a href="https://www.unipe.edu.br/">UNIPÊ</a>
+<img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/8.gif" width="30">
+</em></p>
 
-<img src="./assets/hero-banner.svg" width="900" />
+![GitHub followers](https://img.shields.io/github/followers/hiagoka)
 
-<br><br>
+<img align='right' src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/3.gif" width="320">
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+### A little more about me...<img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/1.gif" width="60">
 
-<br><br>
+```javascript
+const hiago = {
+  location: "João Pessoa, PB - Brazil",
+  code: [TypeScript, JavaScript, Swift],
+  tools: [React Native, Expo, React, Next.js, Node.js, Firebase],
+  state: [Zustand, TanStack Query, React Hook Form + Zod],
+  system: [macOS, Xcode, EAS, Figma],
+  learning: "Going deep on Swift & SwiftUI"
+}
+```
 
-<table>
-<tr>
-<td valign="top" width="400">
+### Featured projects
 
-<img src="./assets/bounty-poster.svg" width="380" />
+- **[OnePieceReact](https://github.com/hiagoka/OnePieceReact)** — React + TypeScript project inspired by the One Piece universe.
+- **[ai-chat-mobile](https://github.com/hiagoka/ai-chat-mobile)** — AI-powered mobile chat app with React Native and the OpenAI API.
+- **Web system — Paraíba Military Police** — web application developed for the PMPB.
 
-</td>
-<td valign="top">
+<img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/5.gif" width="60"> <em><b>I love connecting with different people,</b> so if you want to say <b>hi</b>, I'd be happy to meet you!</em>
 
-### 🗺️ Featured projects
+[Portfolio](https://hiagokalil-dev.vercel.app/), [Instagram](https://www.instagram.com/hiagokalil/), [GitHub](https://github.com/hiagoka)
+<details>
 
-**[OnePieceReact](https://github.com/hiagoka/OnePieceReact)**
-A React + TypeScript project inspired by the One Piece universe — add characters and build out the anime's crews. Made because One Piece is the work that inspires me the most.
+<summary>ASCII Art</summary>
 
-**[ai-chat-mobile](https://github.com/hiagoka/ai-chat-mobile)**
-AI-powered mobile chat app, built with React Native and the OpenAI API.
-
-**Web system — Paraíba Military Police**
-A web system/application developed for the Military Police of Paraíba (PMPB).
-
-<br>
-
-### 📡 Contact
-
-<a href="https://www.instagram.com/hiagokalil/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
+```
+  ,---,                                                   ,-.
+,--.' |      ,--,                                     ,--/ /|
+|  |  :    ,--.'|                            ,---.  ,--. :/ |
+:  :  :    |  |,                 ,----._,.  '   ,'\ :  : ' /
+:  |  |,--.`--'_      ,--.--.   /   /  ' / /   /   ||  '  /    ,--.--.
+|  :  '   |,' ,'|    /       \ |   :     |.   ; ,. :'  |  :   /       \
+|  |   /' :'  | |   .--.  .-. ||   | .\  .'   | |: :|  |   \ .--.  .-. |
+'  :  | | ||  | :    \__\/: . ..   ; ';  |'   | .; :'  : |. \ \__\/: . .
+|  |  ' | :'  : |__  ," .--.; |'   .   . ||   :    ||  | ' \ \," .--.; |
+|  :  :_:,'|  | '.'|/  /  ,.  | `---`-'| | \   \  / '  : |--'/  /  ,.  |
+|  | ,'    ;  :    ;  :   .'   \.'__/\_: |  `----'  ;  |,'  ;  :   .'   \
+`--''      |  ,   /|  ,     .-./|   :    :          '--'    |  ,     .-./
+            ---`-'  `--`---'     \   \  /                    `--`---'
+                                  `--`-'
+```
+</details>
